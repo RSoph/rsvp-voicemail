@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>http://voicemail.herokuapp.com/outgoing_message.mp3</Play><!-- Hi, thanks for calling The Ladies B, R S V P line! We're so excited for the wedding, and hope you're calling to say you'll be coming! At the beep, please tell us your name, if you're coming to the wedding, if you'd like to join us for a welcome reception Friday night, and how many people you're bringing. Thanks and we'll see you soon! -->
+    <Record maxLength="180" />
+</Response>
